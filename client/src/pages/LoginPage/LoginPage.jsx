@@ -57,7 +57,7 @@ function LoginPage() {
   return (
     <div className="loginPageContainer">
       <div className="loginCenterBox">
-        <h2 className="title">Acessar</h2>
+        <h2 className="title">Acessar:</h2>
 
         <div className="loginForm">
           <InputGroup
